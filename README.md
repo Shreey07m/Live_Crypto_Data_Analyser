@@ -19,9 +19,9 @@ I developed this Crypto Data Analyser is a Python project that fetches, analyses
   - `openpyxl`
     
 - Install the required dependencies:
-    ``` bash pip install -r requirements.txt```
+    ```  pip install -r requirements.txt```
 - Run the Python script to start fetching and analyzing live cryptocurrency data:
-    ```  bash python crypto_python_script.py```
+    ```  python crypto_python_script.py```
 
 
 
