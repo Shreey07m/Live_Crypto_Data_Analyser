@@ -4,7 +4,6 @@ I developed this Crypto Data Analyser is a Python project that fetches, analyses
 
 ## Key Features
 - **Live Data Fetching**: Retrieve live cryptocurrency data from the CoinGecko API.
-- 
 - **Real-Time Analysis**:
   - Identify the top 5 cryptocurrencies by market capitalization.
   - Calculate the average price of the top 50 cryptocurrencies.
@@ -21,7 +20,6 @@ I developed this Crypto Data Analyser is a Python project that fetches, analyses
   -
   - Install the required dependenciesl:
   - pip install -r requirements.txt
-  -
   - Run the Python script to start fetching and analyzing live cryptocurrency data:
  
   - python crypto_python_script.py
